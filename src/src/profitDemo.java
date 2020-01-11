@@ -69,7 +69,7 @@ import java.util.Scanner;
                     if (em.get(i).getSalary().getSale()>100001)
                         em.get(i).getSalary().setSalary(s.get(i).getSarary()+3000);
                 }
-                System.out.println("Salary of 1"+em.get(i).toString());
+                System.out.println("Salary of 1 2"+em.get(i).toString());
 
 
             }
